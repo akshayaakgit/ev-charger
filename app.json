@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ev-charger",
+    "slug": "ev-charger",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ev-charger"
+}
